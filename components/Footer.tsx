@@ -55,12 +55,12 @@ export default function Footer() {
           >
             Uses
           </Link>
-          <Link
+          {/* <Link
             href="/guestbook"
             className="text-gray-500 hover:text-gray-600 transition"
           >
             Guestbook
-          </Link>
+          </Link> */}
           <Link
             href="/snippets"
             className="text-gray-500 hover:text-gray-600 transition"
